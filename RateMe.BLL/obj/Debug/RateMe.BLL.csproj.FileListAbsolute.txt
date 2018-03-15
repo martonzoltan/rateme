@@ -1,0 +1,15 @@
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\RateMe.BLL.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\RateMe.BLL.pdb
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\AutoMapper.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\RateMe.Core.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\RateMe.Repository.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\Dapper.Contrib.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\Dapper.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\RateMe.Core.pdb
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\RateMe.Repository.pdb
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\AutoMapper.xml
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\Dapper.Contrib.xml
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\bin\Debug\Dapper.xml
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\obj\Debug\RateMe.BLL.csprojResolveAssemblyReference.cache
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\obj\Debug\RateMe.BLL.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.BLL\obj\Debug\RateMe.BLL.pdb

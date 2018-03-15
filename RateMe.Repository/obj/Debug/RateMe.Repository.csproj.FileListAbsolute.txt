@@ -1,0 +1,8 @@
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.Repository\bin\Debug\RateMe.Repository.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.Repository\bin\Debug\RateMe.Repository.pdb
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.Repository\bin\Debug\Dapper.Contrib.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.Repository\bin\Debug\Dapper.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.Repository\bin\Debug\Dapper.xml
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.Repository\bin\Debug\Dapper.Contrib.xml
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.Repository\obj\Debug\RateMe.Repository.dll
+C:\Users\MzA\Documents\Visual Studio 2015\Projects\RateMe-master\RateMe\RateMe.Repository\obj\Debug\RateMe.Repository.pdb

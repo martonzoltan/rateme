@@ -1,0 +1,802 @@
+﻿[
+	{
+		"ID": "1",
+		"Title": "The Shawshank Redemption",
+		"Runtime": "142 min",
+		"ReleaseDate": "1994",
+		"Genres": " Crime, Drama ",
+		"Votes": "1925806"
+	},
+	{
+		"ID": "2",
+		"Title": "The Godfather",
+		"Runtime": "175 min",
+		"ReleaseDate": "1972",
+		"Genres": " Crime, Drama ",
+		"Votes": "1316792"
+	},
+	{
+		"ID": "3",
+		"Title": "The Godfather: Part II",
+		"Runtime": "202 min",
+		"ReleaseDate": "1974",
+		"Genres": " Crime, Drama ",
+		"Votes": "909502"
+	},
+	{
+		"ID": "4",
+		"Title": "The Dark Knight",
+		"Runtime": "152 min",
+		"ReleaseDate": "2008",
+		"Genres": " Action, Crime, Thriller ",
+		"Votes": "1897061"
+	},
+	{
+		"ID": "5",
+		"Title": "12 Angry Men",
+		"Runtime": "96 min",
+		"ReleaseDate": "1957",
+		"Genres": " Crime, Drama ",
+		"Votes": "532337"
+	},
+	{
+		"ID": "6",
+		"Title": "Schindler's List",
+		"Runtime": "195 min",
+		"ReleaseDate": "1993",
+		"Genres": " Biography, Drama, History ",
+		"Votes": "991874"
+	},
+	{
+		"ID": "7",
+		"Title": "Pulp Fiction",
+		"Runtime": "154 min",
+		"ReleaseDate": "1994",
+		"Genres": " Crime, Drama ",
+		"Votes": "1504464"
+	},
+	{
+		"ID": "8",
+		"Title": "The Lord of the Rings: The Return of the King",
+		"Runtime": "201 min",
+		"ReleaseDate": "2003",
+		"Genres": " Adventure, Drama, Fantasy ",
+		"Votes": "1374696"
+	},
+	{
+		"ID": "9",
+		"Title": "The Good, the Bad and the Ugly",
+		"Runtime": "148 min",
+		"ReleaseDate": "1966",
+		"Genres": " Western ",
+		"Votes": "570378"
+	},
+	{
+		"ID": "10",
+		"Title": "Fight Club",
+		"Runtime": "139 min",
+		"ReleaseDate": "1999",
+		"Genres": " Drama ",
+		"Votes": "1542063"
+	},
+	{
+		"ID": "11",
+		"Title": "The Lord of the Rings: The Fellowship of the Ring",
+		"Runtime": "178 min",
+		"ReleaseDate": "2001",
+		"Genres": " Adventure, Drama, Fantasy ",
+		"Votes": "1394257"
+	},
+	{
+		"ID": "12",
+		"Title": "Star Wars: Episode V - The Empire Strikes Back",
+		"Runtime": "124 min",
+		"ReleaseDate": "1980",
+		"Genres": " Action, Adventure, Fantasy ",
+		"Votes": "968113"
+	},
+	{
+		"ID": "13",
+		"Title": "Forrest Gump",
+		"Runtime": "142 min",
+		"ReleaseDate": "1994",
+		"Genres": " Drama, Romance ",
+		"Votes": "1456850"
+	},
+	{
+		"ID": "14",
+		"Title": "Inception",
+		"Runtime": "148 min",
+		"ReleaseDate": "2010",
+		"Genres": " Action, Adventure, Sci-Fi ",
+		"Votes": "1684581"
+	},
+	{
+		"ID": "15",
+		"Title": "The Lord of the Rings: The Two Towers",
+		"Runtime": "179 min",
+		"ReleaseDate": "2002",
+		"Genres": " Adventure, Drama, Fantasy ",
+		"Votes": "1244467"
+	},
+	{
+		"ID": "16",
+		"Title": "One Flew Over the Cuckoo's Nest",
+		"Runtime": "133 min",
+		"ReleaseDate": "1975",
+		"Genres": " Drama ",
+		"Votes": "767733"
+	},
+	{
+		"ID": "17",
+		"Title": "Goodfellas",
+		"Runtime": "146 min",
+		"ReleaseDate": "1990",
+		"Genres": " Biography, Crime, Drama ",
+		"Votes": "829920"
+	},
+	{
+		"ID": "18",
+		"Title": "The Matrix",
+		"Runtime": "136 min",
+		"ReleaseDate": "1999",
+		"Genres": " Action, Sci-Fi ",
+		"Votes": "1383393"
+	},
+	{
+		"ID": "19",
+		"Title": "Seven Samurai",
+		"Runtime": "207 min",
+		"ReleaseDate": "1954",
+		"Genres": " Adventure, Drama ",
+		"Votes": "259742"
+	},
+	{
+		"ID": "20",
+		"Title": "Star Wars: Episode IV - A New Hope",
+		"Runtime": "121 min",
+		"ReleaseDate": "1977",
+		"Genres": " Action, Adventure, Fantasy ",
+		"Votes": "1040253"
+	},
+	{
+		"ID": "21",
+		"Title": "City of God",
+		"Runtime": "130 min",
+		"ReleaseDate": "2002",
+		"Genres": " Crime, Drama ",
+		"Votes": "598415"
+	},
+	{
+		"ID": "22",
+		"Title": "Se7en",
+		"Runtime": "127 min",
+		"ReleaseDate": "1995",
+		"Genres": " Crime, Drama, Mystery ",
+		"Votes": "1174154"
+	},
+	{
+		"ID": "23",
+		"Title": "The Silence of the Lambs",
+		"Runtime": "118 min",
+		"ReleaseDate": "1991",
+		"Genres": " Crime, Drama, Thriller ",
+		"Votes": "1027758"
+	},
+	{
+		"ID": "24",
+		"Title": "It's a Wonderful Life",
+		"Runtime": "130 min",
+		"ReleaseDate": "1946",
+		"Genres": " Drama, Family, Fantasy ",
+		"Votes": "322874"
+	},
+	{
+		"ID": "25",
+		"Title": "The Usual Suspects",
+		"Runtime": "106 min",
+		"ReleaseDate": "1995",
+		"Genres": " Crime, Mystery, Thriller ",
+		"Votes": "840018"
+	},
+	{
+		"ID": "26",
+		"Title": "Life Is Beautiful",
+		"Runtime": "116 min",
+		"ReleaseDate": "1997",
+		"Genres": " Comedy, Drama, War ",
+		"Votes": "497609"
+	},
+	{
+		"ID": "27",
+		"Title": "Léon",
+		"Runtime": "110 min",
+		"ReleaseDate": "1994",
+		"Genres": " Crime, Drama, Thriller ",
+		"Votes": "839182"
+	},
+	{
+		"ID": "28",
+		"Title": "Spirited Away",
+		"Runtime": "125 min",
+		"ReleaseDate": "2001",
+		"Genres": " Animation, Adventure, Family ",
+		"Votes": "498549"
+	},
+	{
+		"ID": "29",
+		"Title": "Saving Private Ryan",
+		"Runtime": "169 min",
+		"ReleaseDate": "1998",
+		"Genres": " Drama, War ",
+		"Votes": "1014185"
+	},
+	{
+		"ID": "30",
+		"Title": "Once Upon a Time in the West",
+		"Runtime": "164 min",
+		"ReleaseDate": "1968",
+		"Genres": " Western ",
+		"Votes": "248536"
+	},
+	{
+		"ID": "31",
+		"Title": "American History X",
+		"Runtime": "119 min",
+		"ReleaseDate": "1998",
+		"Genres": " Crime, Drama ",
+		"Votes": "884617"
+	},
+	{
+		"ID": "32",
+		"Title": "Interstellar",
+		"Runtime": "169 min",
+		"ReleaseDate": "2014",
+		"Genres": " Adventure, Drama, Sci-Fi ",
+		"Votes": "1151845"
+	},
+	{
+		"ID": "33",
+		"Title": "Casablanca",
+		"Runtime": "102 min",
+		"ReleaseDate": "1942",
+		"Genres": " Drama, Romance, War ",
+		"Votes": "438699"
+	},
+	{
+		"ID": "34",
+		"Title": "Psycho",
+		"Runtime": "109 min",
+		"ReleaseDate": "1960",
+		"Genres": " Horror, Mystery, Thriller ",
+		"Votes": "486886"
+	},
+	{
+		"ID": "35",
+		"Title": "City Lights",
+		"Runtime": "87 min",
+		"ReleaseDate": "1931",
+		"Genres": " Comedy, Drama, Romance ",
+		"Votes": "129815"
+	},
+	{
+		"ID": "36",
+		"Title": "The Green Mile",
+		"Runtime": "189 min",
+		"ReleaseDate": "1999",
+		"Genres": " Crime, Drama, Fantasy ",
+		"Votes": "915268"
+	},
+	{
+		"ID": "37",
+		"Title": "Raiders of the Lost Ark",
+		"Runtime": "115 min",
+		"ReleaseDate": "1981",
+		"Genres": " Action, Adventure ",
+		"Votes": "746996"
+	},
+	{
+		"ID": "38",
+		"Title": "Untouchable",
+		"Runtime": "112 min",
+		"ReleaseDate": "2011",
+		"Genres": " Biography, Comedy, Drama ",
+		"Votes": "606688"
+	},
+	{
+		"ID": "39",
+		"Title": "Modern Times",
+		"Runtime": "87 min",
+		"ReleaseDate": "1936",
+		"Genres": " Comedy, Drama, Family ",
+		"Votes": "170037"
+	},
+	{
+		"ID": "40",
+		"Title": "Rear Window",
+		"Runtime": "112 min",
+		"ReleaseDate": "1954",
+		"Genres": " Mystery, Thriller ",
+		"Votes": "363140"
+	},
+	{
+		"ID": "41",
+		"Title": "The Pianist",
+		"Runtime": "150 min",
+		"ReleaseDate": "2002",
+		"Genres": " Biography, Drama, Music ",
+		"Votes": "581135"
+	},
+	{
+		"ID": "42",
+		"Title": "Terminator 2: Judgment Day",
+		"Runtime": "137 min",
+		"ReleaseDate": "1991",
+		"Genres": " Action, Sci-Fi ",
+		"Votes": "839060"
+	},
+	{
+		"ID": "43",
+		"Title": "The Departed",
+		"Runtime": "151 min",
+		"ReleaseDate": "2006",
+		"Genres": " Crime, Drama, Thriller ",
+		"Votes": "992829"
+	},
+	{
+		"ID": "44",
+		"Title": "Back to the Future",
+		"Runtime": "116 min",
+		"ReleaseDate": "1985",
+		"Genres": " Adventure, Comedy, Sci-Fi ",
+		"Votes": "848115"
+	},
+	{
+		"ID": "45",
+		"Title": "Whiplash",
+		"Runtime": "107 min",
+		"ReleaseDate": "2014",
+		"Genres": " Drama, Music ",
+		"Votes": "536387"
+	},
+	{
+		"ID": "46",
+		"Title": "Gladiator",
+		"Runtime": "155 min",
+		"ReleaseDate": "2000",
+		"Genres": " Action, Adventure, Drama ",
+		"Votes": "1115991"
+	},
+	{
+		"ID": "47",
+		"Title": "Memento",
+		"Runtime": "113 min",
+		"ReleaseDate": "2000",
+		"Genres": " Mystery, Thriller ",
+		"Votes": "959483"
+	},
+	{
+		"ID": "48",
+		"Title": "Apocalypse Now",
+		"Runtime": "147 min",
+		"ReleaseDate": "1979",
+		"Genres": " Drama, War ",
+		"Votes": "506741"
+	},
+	{
+		"ID": "49",
+		"Title": "The Prestige",
+		"Runtime": "130 min",
+		"ReleaseDate": "2006",
+		"Genres": " Drama, Mystery, Sci-Fi ",
+		"Votes": "978810"
+	},
+	{
+		"ID": "50",
+		"Title": "The Lion King",
+		"Runtime": "88 min",
+		"ReleaseDate": "1994",
+		"Genres": " Animation, Adventure, Drama ",
+		"Votes": "752831"
+	},
+	{
+		"ID": "51",
+		"Title": "Alien",
+		"Runtime": "116 min",
+		"ReleaseDate": "1979",
+		"Genres": " Horror, Sci-Fi ",
+		"Votes": "656684"
+	},
+	{
+		"ID": "52",
+		"Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+		"Runtime": "95 min",
+		"ReleaseDate": "1964",
+		"Genres": " Comedy, War ",
+		"Votes": "386042"
+	},
+	{
+		"ID": "53",
+		"Title": "Sunset Boulevard",
+		"Runtime": "110 min",
+		"ReleaseDate": "1950",
+		"Genres": " Drama, Film-Noir ",
+		"Votes": "161731"
+	},
+	{
+		"ID": "54",
+		"Title": "The Great Dictator",
+		"Runtime": "125 min",
+		"ReleaseDate": "1940",
+		"Genres": " Comedy, Drama, War ",
+		"Votes": "162592"
+	},
+	{
+		"ID": "55",
+		"Title": "The Lives of Others",
+		"Runtime": "137 min",
+		"ReleaseDate": "2006",
+		"Genres": " Drama, Thriller ",
+		"Votes": "296571"
+	},
+	{
+		"ID": "56",
+		"Title": "Cinema Paradiso",
+		"Runtime": "155 min",
+		"ReleaseDate": "1988",
+		"Genres": " Drama ",
+		"Votes": "179984"
+	},
+	{
+		"ID": "57",
+		"Title": "Paths of Glory",
+		"Runtime": "88 min",
+		"ReleaseDate": "1957",
+		"Genres": " Drama, War ",
+		"Votes": "140527"
+	},
+	{
+		"ID": "58",
+		"Title": "Grave of the Fireflies",
+		"Runtime": "89 min",
+		"ReleaseDate": "1988",
+		"Genres": " Animation, Drama, War ",
+		"Votes": "170136"
+	},
+	{
+		"ID": "59",
+		"Title": "Django Unchained",
+		"Runtime": "165 min",
+		"ReleaseDate": "2012",
+		"Genres": " Drama, Western ",
+		"Votes": "1110159"
+	},
+	{
+		"ID": "60",
+		"Title": "The Shining",
+		"Runtime": "146 min",
+		"ReleaseDate": "1980",
+		"Genres": " Drama, Horror ",
+		"Votes": "706690"
+	},
+	{
+		"ID": "61",
+		"Title": "WALL·E",
+		"Runtime": "98 min",
+		"ReleaseDate": "2008",
+		"Genres": " Animation, Adventure, Family ",
+		"Votes": "829630"
+	},
+	{
+		"ID": "62",
+		"Title": "The Dark Knight Rises",
+		"Runtime": "164 min",
+		"ReleaseDate": "2012",
+		"Genres": " Action, Thriller ",
+		"Votes": "1290063"
+	},
+	{
+		"ID": "63",
+		"Title": "American Beauty",
+		"Runtime": "122 min",
+		"ReleaseDate": "1999",
+		"Genres": " Drama ",
+		"Votes": "927165"
+	},
+	{
+		"ID": "64",
+		"Title": "Princess Mononoke",
+		"Runtime": "134 min",
+		"ReleaseDate": "1997",
+		"Genres": " Animation, Adventure, Fantasy ",
+		"Votes": "264361"
+	},
+	{
+		"ID": "65",
+		"Title": "Aliens",
+		"Runtime": "137 min",
+		"ReleaseDate": "1986",
+		"Genres": " Action, Adventure, Sci-Fi ",
+		"Votes": "557748"
+	},
+	{
+		"ID": "66",
+		"Title": "Oldboy",
+		"Runtime": "120 min",
+		"ReleaseDate": "2003",
+		"Genres": " Mystery, Thriller ",
+		"Votes": "417262"
+	},
+	{
+		"ID": "67",
+		"Title": "Once Upon a Time in America",
+		"Runtime": "229 min",
+		"ReleaseDate": "1984",
+		"Genres": " Crime, Drama ",
+		"Votes": "253146"
+	},
+	{
+		"ID": "68",
+		"Title": "Citizen Kane",
+		"Runtime": "119 min",
+		"ReleaseDate": "1941",
+		"Genres": " Drama, Mystery ",
+		"Votes": "335824"
+	},
+	{
+		"ID": "69",
+		"Title": "Das Boot",
+		"Runtime": "149 min",
+		"ReleaseDate": "1981",
+		"Genres": " Adventure, Drama, Thriller ",
+		"Votes": "191759"
+	},
+	{
+		"ID": "70",
+		"Title": "Witness for the Prosecution",
+		"Runtime": "116 min",
+		"ReleaseDate": "1957",
+		"Genres": " Crime, Drama, Mystery ",
+		"Votes": "78793"
+	},
+	{
+		"ID": "71",
+		"Title": "North by Northwest",
+		"Runtime": "136 min",
+		"ReleaseDate": "1959",
+		"Genres": " Adventure, Mystery, Thriller ",
+		"Votes": "248779"
+	},
+	{
+		"ID": "72",
+		"Title": "Vertigo",
+		"Runtime": "128 min",
+		"ReleaseDate": "1958",
+		"Genres": " Mystery, Romance, Thriller ",
+		"Votes": "290109"
+	},
+	{
+		"ID": "73",
+		"Title": "Star Wars: Episode VI - Return of the Jedi",
+		"Runtime": "131 min",
+		"ReleaseDate": "1983",
+		"Genres": " Action, Adventure, Fantasy ",
+		"Votes": "795659"
+	},
+	{
+		"ID": "74",
+		"Title": "M",
+		"Runtime": "117 min",
+		"ReleaseDate": "1931",
+		"Genres": " Crime, Drama, Mystery ",
+		"Votes": "114937"
+	},
+	{
+		"ID": "75",
+		"Title": "Reservoir Dogs",
+		"Runtime": "99 min",
+		"ReleaseDate": "1992",
+		"Genres": " Crime, Drama, Thriller ",
+		"Votes": "760125"
+	},
+	{
+		"ID": "76",
+		"Title": "Braveheart",
+		"Runtime": "178 min",
+		"ReleaseDate": "1995",
+		"Genres": " Biography, Drama, History ",
+		"Votes": "833116"
+	},
+	{
+		"ID": "77",
+		"Title": "Amélie",
+		"Runtime": "122 min",
+		"ReleaseDate": "2001",
+		"Genres": " Comedy, Romance ",
+		"Votes": "606302"
+	},
+	{
+		"ID": "78",
+		"Title": "Requiem for a Dream",
+		"Runtime": "102 min",
+		"ReleaseDate": "2000",
+		"Genres": " Drama ",
+		"Votes": "651803"
+	},
+	{
+		"ID": "79",
+		"Title": "A Clockwork Orange",
+		"Runtime": "136 min",
+		"ReleaseDate": "1971",
+		"Genres": " Crime, Drama, Sci-Fi ",
+		"Votes": "635645"
+	},
+	{
+		"ID": "80",
+		"Title": "Taxi Driver",
+		"Runtime": "114 min",
+		"ReleaseDate": "1976",
+		"Genres": " Crime, Drama ",
+		"Votes": "583119"
+	},
+	{
+		"ID": "81",
+		"Title": "Lawrence of Arabia",
+		"Runtime": "216 min",
+		"ReleaseDate": "1962",
+		"Genres": " Adventure, Biography, Drama ",
+		"Votes": "220790"
+	},
+	{
+		"ID": "82",
+		"Title": "Double Indemnity",
+		"Runtime": "107 min",
+		"ReleaseDate": "1944",
+		"Genres": " Crime, Drama, Film-Noir ",
+		"Votes": "113950"
+	},
+	{
+		"ID": "83",
+		"Title": "Like Stars on Earth",
+		"Runtime": "165 min",
+		"ReleaseDate": "2007",
+		"Genres": " Drama, Family ",
+		"Votes": "118617"
+	},
+	{
+		"ID": "84",
+		"Title": "To Kill a Mockingbird",
+		"Runtime": "129 min",
+		"ReleaseDate": "1962",
+		"Genres": " Crime, Drama ",
+		"Votes": "249237"
+	},
+	{
+		"ID": "85",
+		"Title": "Eternal Sunshine of the Spotless Mind",
+		"Runtime": "108 min",
+		"ReleaseDate": "2004",
+		"Genres": " Drama, Romance, Sci-Fi ",
+		"Votes": "760866"
+	},
+	{
+		"ID": "86",
+		"Title": "Toy Story 3",
+		"Runtime": "103 min",
+		"ReleaseDate": "2010",
+		"Genres": " Animation, Adventure, Comedy ",
+		"Votes": "624761"
+	},
+	{
+		"ID": "87",
+		"Title": "Tatal meu si fiul meu",
+		"Runtime": "108 min",
+		"ReleaseDate": "2005",
+		"Genres": " Drama ",
+		"Votes": "55123"
+	},
+	{
+		"ID": "88",
+		"Title": "Amadeus",
+		"Runtime": "160 min",
+		"ReleaseDate": "1984",
+		"Genres": " Biography, Drama, History ",
+		"Votes": "310086"
+	},
+	{
+		"ID": "89",
+		"Title": "Full Metal Jacket",
+		"Runtime": "116 min",
+		"ReleaseDate": "1987",
+		"Genres": " Drama, War ",
+		"Votes": "557512"
+	},
+	{
+		"ID": "90",
+		"Title": "Fara arma in linia intai",
+		"Runtime": "139 min",
+		"ReleaseDate": "2016",
+		"Genres": " Biography, Drama, History ",
+		"Votes": "305315"
+	},
+	{
+		"ID": "91",
+		"Title": "The Sting",
+		"Runtime": "129 min",
+		"ReleaseDate": "1973",
+		"Genres": " Comedy, Crime, Drama ",
+		"Votes": "200712"
+	},
+	{
+		"ID": "92",
+		"Title": "2001: A Space Odyssey",
+		"Runtime": "149 min",
+		"ReleaseDate": "1968",
+		"Genres": " Adventure, Sci-Fi ",
+		"Votes": "492300"
+	},
+	{
+		"ID": "93",
+		"Title": "Bicycle Thieves",
+		"Runtime": "89 min",
+		"ReleaseDate": "1948",
+		"Genres": " Drama ",
+		"Votes": "112290"
+	},
+	{
+		"ID": "94",
+		"Title": "Toy Story",
+		"Runtime": "81 min",
+		"ReleaseDate": "1995",
+		"Genres": " Animation, Adventure, Comedy ",
+		"Votes": "720570"
+	},
+	{
+		"ID": "95",
+		"Title": "Singin' in the Rain",
+		"Runtime": "103 min",
+		"ReleaseDate": "1952",
+		"Genres": " Comedy, Musical, Romance ",
+		"Votes": "177626"
+	},
+	{
+		"ID": "96",
+		"Title": "Snatch",
+		"Runtime": "104 min",
+		"ReleaseDate": "2000",
+		"Genres": " Comedy, Crime ",
+		"Votes": "673607"
+	},
+	{
+		"ID": "97",
+		"Title": "Inglourious Basterds",
+		"Runtime": "153 min",
+		"ReleaseDate": "2009",
+		"Genres": " Adventure, Drama, War ",
+		"Votes": "1025581"
+	},
+	{
+		"ID": "98",
+		"Title": "The Kid",
+		"Runtime": "68 min",
+		"ReleaseDate": "1921",
+		"Genres": " Comedy, Drama, Family ",
+		"Votes": "83938"
+	},
+	{
+		"ID": "99",
+		"Title": "Monty Python and the Holy Grail",
+		"Runtime": "91 min",
+		"ReleaseDate": "1975",
+		"Genres": " Adventure, Comedy, Fantasy ",
+		"Votes": "426875"
+	},
+	{
+		"ID": "100",
+		"Title": "L.A. Confidential",
+		"Runtime": "138 min",
+		"ReleaseDate": "1997",
+		"Genres": " Crime, Drama, Mystery ",
+		"Votes": "461264"
+	}
+]

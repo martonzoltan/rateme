@@ -1,0 +1,43 @@
+﻿@model List<RateMe.Core.Models.Movie>
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<h2>Search</h2>
+
+    <label>Enter search text</label>
+    <input type="text" id="searchFor" name="text"/>
+    <input type="submit" id="submit"/>
+
+<div class="datagrid">
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Genre</th>
+        </tr>
+    </table>
+</div>
+<script>
+    $("#submit").on("click", function () {
+        $("table").find("tr:gt(0)").remove();
+        $.ajax({
+            url: '@Url.Action("Search", "Movie")',
+            contentType: "application/json; charset=utf-8",
+            data: JSON.stringify({ 'text': $('#searchFor').val() }),
+            dataType: "json",
+            method: "POST",
+            success: function (searchResult) {
+                $.each(searchResult, function (key, val) {
+                    $("table").append("<tr><td>" + val.Id + "</td><td>" + val.Title + "</td><td>" + val.Genres + "</td></tr>");
+                }); 
+            },
+            error: function (xhr, status, error) {
+                alert(xhr.responseText);
+            }
+        });
+    });
+    
+</script>
+
